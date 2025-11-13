@@ -1,7 +1,7 @@
 # GameZone# 🎮 GameZone
 
-**Author:** [Muhammad Asaad](https://www.linkedin.com/in/muhammad-asaad-93b14523b/)  
-**Email:** [mohamedasaad774@gmail.com](mailto:mohamedasaad774@gmail.com)  
+**Author:** [Muhammad Asaad](https://www.linkedin.com/in/meshmuhammad-asaad/)  
+**Email:** [mohamedasaad774@gmail.com](mailto:meshmuhammadasaad@gmail.com)  
 **Project Type:** ASP.NET Core MVC Web Application (.NET 8)
 
 ---
